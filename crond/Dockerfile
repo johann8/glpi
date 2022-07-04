@@ -1,4 +1,4 @@
-FROM johann8/glpi:9.5.7
+FROM johann8/glpi:9.5.8
 
 RUN yum -y install cronie mariadb
  
