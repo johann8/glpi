@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # set variables
-_VERSION=9.5.7
+_VERSION=9.5.8
 
 # build image glpi
 docker build -t johann8/glpi:${_VERSION} apache/
